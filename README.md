@@ -5,43 +5,10 @@
 <p align="center">An app developed for the user to be able to register plants and be reminded of when to water them.<br/>You can see the project layout <a href="https://www.figma.com/file/Q3RMUnGwkVh66cVhE6bgKd/PlantManager-(Copy)?node-id=0%3A1">here</a>. Developed during the <a href="http://www.rocketseat.com.br/">Rocketseat</a> NLW #5.</p>
 
 ## Screenshots
-<ul>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-1.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-2.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-3.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-4.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-5.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-6.png" />
-</h1>
-</li>
-<li>
-<h1 align="center">
-  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/app-mockup-7.png" />
-</h1>
-</li>
-</ul>
+
+<p> align="center">
+ <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/plantmanager.png" width="100%"/> 
+</p>
 
 ## Technologies used
 
