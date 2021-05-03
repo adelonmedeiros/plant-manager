@@ -36,7 +36,7 @@ $ expo start
 
 # Start the fake api to simulate requests (replace <iphere> with your ip local address)
 $ yarn server (
-change to your <ip> in the package json file line 9) 
+change to your <ip> in the package.json file, line 9) 
 Or
 $ json-server ./src/services server.json --host <iphere> --port 3333 --delay 700
 
