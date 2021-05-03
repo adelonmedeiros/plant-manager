@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+ Plant Manager
 </h1>
 
 <p align="center">An app developed for the user to be able to register plants and be reminded of when to water them.<br/>You can see the project layout <a href="https://www.figma.com/file/Q3RMUnGwkVh66cVhE6bgKd/PlantManager-(Copy)?node-id=0%3A1">here</a>. Developed during the <a href="http://www.rocketseat.com.br/">Rocketseat</a> NLW #5.</p>
 
 ## Screenshots
 
-<p> align="center">
+<p align="center">
  <img alt="Mobile Mockups" title="Mobile Mockups" src=".github/plantmanager.png" width="100%"/> 
 </p>
 
